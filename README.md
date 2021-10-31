@@ -12,7 +12,7 @@
 
 ### Concepts in place : *Web Scrapping, Browser Automation*
 
-#### I have used JS and npm libraries for this project.
+#### I have used nodeJS and npm libraries for this project.
 
 #### Sample excel sheet: Here its for easy, medium and hard questions previously asked in Wallmart >
 ![image](https://user-images.githubusercontent.com/73374498/139572587-5664d581-571a-44d0-8e2b-5e4cca3b520c.png)
