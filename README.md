@@ -1,6 +1,6 @@
 # GFG_Question_WebScrapping_Automation
 
-## The aim of this project is to AUTOMATE the creation of company specific EXCEL FILES consisting of 3 Worksheets each : Easy, Medium, Hard.
+## The aim of this project is to AUTOMATE the creation of company specific EXCEL FILES consisting of 3 Worksheets each : Easy, Medium, Hard using JS and Puppeteer.
 
 *Easy has list of easy difficulty level of questions along with the links.*
 
